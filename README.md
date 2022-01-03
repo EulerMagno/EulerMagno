@@ -1,4 +1,4 @@
-### Bem vindos a minha página, informações sempre atualizadas!
+### Welcome to my page, information always updated!
  <div>
   <a href="https://github.com/EulerMagno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EulerMagno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
